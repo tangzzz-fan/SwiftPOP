@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Protocol Basement'/>
+        <page name='Type casting with protocols'/>
+        <page name='Associated types with protocols'/>
+        <page name='Delegation'/>
+        <page name='Protocols in the Swift standard library'/>
+        <page name='Designing with protocols'/>
+    </pages>
+</playground>
